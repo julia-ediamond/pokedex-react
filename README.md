@@ -1,6 +1,6 @@
 # Pokedex React game
 
-Simple game built for learning purposes foloowing a task on Udemy course The Modern React Bootcamp (Hooks, Context, NextJS, Router) by Colt Steele. This exercise let me practice React components and properties. It is a pokemon application ("a pokedex") that looks like this: 
+Simple game built for learning purposes folowing a task on Udemy course The Modern React Bootcamp (Hooks, Context, NextJS, Router) by Colt Steele. This exercise let me practice React components and properties. It is a pokemon application ("a pokedex") that looks like this: 
 ![Alt text](preview.png)
 
 ## Available Scripts
